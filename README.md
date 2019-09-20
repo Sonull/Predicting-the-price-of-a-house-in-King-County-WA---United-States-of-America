@@ -6,7 +6,7 @@
 * The level of significance, alpha is taken to be 0.05 for the analysis
 
 # Objective of the Anaysis
-Build a multiple linear regression model to predict the selling price of a house in King County, United States of America
+Build a multivariate linear regression model to predict the selling price of a house in King County, United States of America
 
 # Dependent Variable
 The variable ‘price’ is the dependent variable. In the dataset, it is the amount at which the house was sold.
