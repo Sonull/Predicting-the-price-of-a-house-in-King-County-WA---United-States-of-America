@@ -185,7 +185,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 # Conclusion
 * Thus, the equation of multiple linear regression model is:
 
-    ## Price of the house = 82780 – 58800 * bedrooms + 317.9 * sqft_living – 0.3818 * sqft_lot
+## Price of the house = 82780 – 58800 * bedrooms + 317.9 * sqft_living – 0.3818 * sqft_lot
 
  * An increase of 1 bedroom will decrease the price of the house by $58,800 when all other variables are held constant
  * An increase in the square footage of the house by 1sqft will increase the price of the house by $317.9 when all other variables are held constant
