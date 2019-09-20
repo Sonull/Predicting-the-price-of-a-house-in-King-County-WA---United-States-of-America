@@ -82,8 +82,21 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 
 * The scatterplot shows that there is a weak positive linear relationship between the square footage of the lot and the price of the house
 
-![corr1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/corr1.png)
+![corr2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/corr2.png)
 * The correlation coefficient between ‘bathrooms’ and ‘price’ = 0.5251375
 * p-value=0
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is there is evidence to suggest that there is significant positive correlation between the number of bathrooms and the price of the house at 5% level of significance
+
+# Correlation between 'price' and 'sqft_lot'
+![Scatter3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter3.png)
+
+![scatter3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter3.png)
+
+* The scatterplot shows that there is a mild positive linear relationship between the number of bedrooms of the house and the price of the house
+
+
+![corr3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/corr3.png)
+* The correlation coefficient between ‘sqft_lot’ and ‘price’ = 0.08966086
+* p-value=7.972505*10^(-40)
+* Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is evidence to suggest that there is significant positive correlation between the square footage of the lot and the price of the house at 5% level of significance
 
