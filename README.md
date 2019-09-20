@@ -20,6 +20,8 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
   * floors		     :	Total number of floors in the house
   
 # Visualization of the data
+
+# Chart 1
 ![chart1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart1.png)
 
 ![graph1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph1.png)
@@ -27,6 +29,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * The distribution of number of bedrooms for these 21,613 houses follows a normal distribution which is positively skewed
 * There are maximum number of houses with 3 bedrooms followed by houses with 4 bedrooms
 
+# Chart 2
 ![chart2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart2.png)
 
 ![graph2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph2.png)
@@ -34,4 +37,13 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * There are maximum number of houses with 2.5 bathrooms followed by houses with 1 bathroom
 * The highest number of bathrooms in a house is 8
 * 87% of the houses have less than or equal to 2.75 bathrooms
+
+# Chart 3
+![chart3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart3.png)
+
+![graph3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph3.png)
+
+* There are a lot of outliers in the variable ’sqft_living’ which provides the information around the square footage of each house
+* About 50% of the houses have square footage of <= 2000 sqft.
+* 25% of the houses have square footage of <= 1400 sqft approx. while 75% of the houses have square footage less than 2500 sqft approx
 
