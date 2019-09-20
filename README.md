@@ -126,3 +126,4 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * p-value=0
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is evidence to suggest that  there is significant positive correlation between the square footage of the house and the price of the house at 5% level of significance
 
+# Multivariate Linear Regression Analysis
