@@ -57,3 +57,5 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 
 # Correlation between the dependent variable and all independent variables
 ![Scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter1.png)
+
+![scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter1.png)
