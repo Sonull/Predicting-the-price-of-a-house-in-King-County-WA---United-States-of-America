@@ -24,4 +24,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 
 ![graph1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph1.png)
 
+* The distribution of number of bedrooms for these 21,613 houses follows a normal distribution which is positively skewed
+* There are maximum number of houses with 3 bedrooms followed by houses with 4 bedrooms
+
 
