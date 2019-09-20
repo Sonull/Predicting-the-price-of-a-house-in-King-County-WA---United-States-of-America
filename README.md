@@ -58,11 +58,12 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 # Correlation between the dependent variable and all independent variables
 
 # Hypothesis Testing
-Ho : Population Correlation Coefficient is 0
-H1 : Population Correlation Coefficient is not 0
-If p value > alpha, we Accept Ho
-If p value < alpha, we reject Ho 
+* Ho : Population Correlation Coefficient is 0
+* H1 : Population Correlation Coefficient is not 0
+* Rejection Criteria
+  * If p value < alpha, we reject Ho 
 
+# Correlation between 'price' and 'bedrooms'
 ![Scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter1.png)
 
 ![scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter1.png)
