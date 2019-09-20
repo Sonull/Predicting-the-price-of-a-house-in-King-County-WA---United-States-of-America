@@ -42,8 +42,10 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 ![chart3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart3.png)
 
 ![graph3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph3.png)
-
 * There are a lot of outliers in the variable ’sqft_living’ which provides the information around the square footage of each house
 * About 50% of the houses have square footage of <= 2000 sqft.
 * 25% of the houses have square footage of <= 1400 sqft approx. while 75% of the houses have square footage less than 2500 sqft approx
+
+# Chart 4
+![chart4](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart4.png)
 
