@@ -56,4 +56,4 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * There were about 1000 houses which were at least a decade or more old when sold 
 
 # Correlation between the dependent variable and all independent variables
-
+![Scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter1.png)
