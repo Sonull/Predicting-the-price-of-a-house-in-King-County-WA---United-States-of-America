@@ -19,5 +19,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
   * sqft_lot		   :	Square footage of the lot
   * floors		     :	Total number of floors in the house
   
+# Visualization of the data
+
 
 
