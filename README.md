@@ -49,3 +49,10 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 # Chart 4
 ![chart4](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart4.png)
 
+![graph4](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph4.png)
+* The oldest houses were built in 1900
+* The construction of houses has increased over time
+* Highest number of houses sold were built between 2000-2010 so, they were about 5 years old at the time of sale
+* There were about 1000 houses which were at least a decade or more old when sold 
+
+
