@@ -129,5 +129,8 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 # Multivariate Linear Regression Analysis
 
 # Iteration 1
+![model1code](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/model1code.png)
+
+![model1results](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/model1results.png)
 
 # Iteration 2
