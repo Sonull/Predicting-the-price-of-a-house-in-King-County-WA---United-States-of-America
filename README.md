@@ -133,4 +133,17 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 
 ![model1results](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/model1results.png)
 
+* Rsquare = 0.5087 implies that 50% of the variation in the dependent variable is explained by the independent variables
+* F test:
+  * Ho: Beta1 = Beta2=Beta3=….Betan=0 i.e all Beta coefficients are 0
+  * H1: At least one of the regression coefficients is not equal to 0
+  * Since, p-value of F statistic is < 2.2e-16 (and therefore, less than alpha), we reject the Ho and conclude that that at least one of the predictor variables in our model has a significant relationship with our outcome variable
+
+# Test of significance of each variable
+* Ho : Beta is 0 
+* H1 : Beta is not 0
+* Rejection Criteria
+  * If p value < alpha, we reject Ho
+
+
 # Iteration 2
