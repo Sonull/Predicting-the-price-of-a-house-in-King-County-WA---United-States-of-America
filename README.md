@@ -63,7 +63,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Rejection Criteria
   * If p value < alpha, we reject Ho 
 
-# Correlation between 'price' and 'sqft_living'
+# Correlation between price and square footage of the house
 ![Scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter1.png)
 
 ![scatter1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter1.png)
@@ -76,7 +76,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is evidence to suggest that  there is significant positive correlation between the square footage of the house and the price of the house at 5% level of significance
 
 
-# Correlation between 'price' and 'sqft_lot'
+# Correlation between price and square footage of the lot
 ![Scatter2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter2.png)
 
 ![scatter2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter2.png)
@@ -89,7 +89,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is evidence to suggest that there is significant positive correlation between the square footage of the lot and the price of the house at 5% level of significance
 
 
-# Correlation between 'price' and 'bedrooms'
+# Correlation between price and number of bedrooms
 ![Scatter3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter3.png)
 
 ![scatter3](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter3.png)
@@ -103,7 +103,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is evidence to suggest that there is significant positive correlation between the number of bedrooms and the price of the house at 5% level of significance
 
 
-# Correlation between 'price' and 'bathrooms'
+# Correlation between price and number of bathrooms
 ![Scatter4](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter4.png)
 
 ![scatter4](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter4.png)
@@ -117,7 +117,7 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the correlation coefficient is significant. That is, there is there is evidence to suggest that there is significant positive correlation between the number of bathrooms and the price of the house at 5% level of significance
 
 
-# Correlation between 'price' and 'floors'
+# Correlation between price and number of floors
 ![Scatter5](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/Scatter5.png)
 
 ![scatter5](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/scatter5.png)
