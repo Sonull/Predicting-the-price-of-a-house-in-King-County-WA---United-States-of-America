@@ -145,5 +145,19 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Rejection Criteria
   * If p value < alpha, we reject Ho
 
+* ‘bedrooms’ :
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘bedrooms’ is statistically significant
+* ‘bathrooms’ :
+  * Since p-value > alpha (0.05), we fail to reject the null hypothesis and conclude that the coefficient is insignificant. Thus, the variable ‘bathrooms’ is statistically insignificant
+* ‘sqft_living’:
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘sqft_living’ is statistically significant
+* ‘sqft_lot’:
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘sqft_lot’ is statistically significant
+* ‘floors’:
+  * Since p-value > alpha (0.05), we fail to reject the null hypothesis and conclude that the coefficient is insignificant. Thus, the variable ‘floors’ is statistically insignificant
+  
+# Re-running the model after dropping the insignificant variables
+
+
 
 # Iteration 2
