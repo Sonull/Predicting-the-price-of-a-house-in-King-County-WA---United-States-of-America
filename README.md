@@ -158,6 +158,36 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
   
 # Re-running the model after dropping the insignificant variables
 
-
-
 # Iteration 2
+![model2code](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/model2code.png)
+
+![model2results](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/model2results.png)
+
+* Rsquare = 0.5086 implies that 50% of the variation in the dependent variable is explained by the independent variables
+* F test:
+  * Ho: Beta1 = Beta2=Beta3=….Betan=0 i.e all Beta coefficients are 0
+  * H1: At least one of the regression coefficients is not equal to 0
+  * Since, p-value of F statistic is < 2.2e-16, we reject the Ho and conclude that that at least one of the predictor variables in our model has a significant relationship with our outcome variable
+
+# Test of significance of each variable
+* Ho : Beta is 0 
+* H1 : Beta is not 0
+* Rejection Criteria
+  * If p value < alpha, we reject Ho
+
+* ‘bedrooms’ :
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘bedrooms’ is statistically significant
+* ‘sqft_living’:
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘sqft_living’ is statistically significant
+* ‘sqft_lot’:
+  * Since p-value < alpha (0.05), we reject the null hypothesis and conclude that the coefficient is significant. Thus, the variable ‘sqft_lot’ is statistically significant
+
+# Conclusion
+* Thus, the equation of multiple linear regression model is:
+
+    ## Price of the house = 82780 – 58800 * bedrooms + 317.9 * sqft_living – 0.3818 * sqft_lot
+
+ * An increase of 1 bedroom will decrease the price of the house by $58,800 when all other variables are held constant
+ * An increase in the square footage of the house by 1sqft will increase the price of the house by $317.9 when all other variables are held constant
+ * An increase in the square footage of the lot by 1sqft will decrease the price of the house by $0.3818 when all other variables are held constant
+
