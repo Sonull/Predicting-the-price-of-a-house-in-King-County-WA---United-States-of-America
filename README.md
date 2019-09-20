@@ -20,6 +20,6 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
   * floors		     :	Total number of floors in the house
   
 # Visualization of the data
-
+![chart1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart1.png)
 
 
