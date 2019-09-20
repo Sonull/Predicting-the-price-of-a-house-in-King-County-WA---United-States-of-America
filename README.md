@@ -27,4 +27,11 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * The distribution of number of bedrooms for these 21,613 houses follows a normal distribution which is positively skewed
 * There are maximum number of houses with 3 bedrooms followed by houses with 4 bedrooms
 
+![chart2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart2.png)
+
+![graph2](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph2.png)
+
+* There are maximum number of houses with 2.5 bathrooms followed by houses with 1 bathroom
+* The highest number of bathrooms in a house is 8
+* 87% of the houses have less than or equal to 2.75 bathrooms
 
