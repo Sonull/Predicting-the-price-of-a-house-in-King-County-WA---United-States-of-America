@@ -22,4 +22,6 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 # Visualization of the data
 ![chart1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Codes/chart1.png)
 
+![graph1](https://github.com/Sonull/Price-Prediction-using-Multiple-Linear-Regression/blob/master/Visualization/graph1.png)
+
 
