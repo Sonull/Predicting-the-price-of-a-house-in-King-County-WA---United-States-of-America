@@ -55,4 +55,4 @@ The variable ‘price’ is the dependent variable. In the dataset, it is the am
 * Highest number of houses sold were built between 2000-2010 so, they were about 5 years old at the time of sale
 * There were about 1000 houses which were at least a decade or more old when sold 
 
-
+# CORRELATION BETWEEN INDEPENDENT VARIABLE AND ALL DEPENDENT VARIABLES
